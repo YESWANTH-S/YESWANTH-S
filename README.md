@@ -40,7 +40,7 @@ A customizable terminal-themed GitHub stats generator:
 >  Embed stylish SVGs directly in your README  
 >  UI-based customization with one-click stat URL generation  
 
-**Tech Stack:**  
+Tech Stack: 
 Frontend: HTML, CSS, JavaScript  
 Backend: Flask (Python)  
 Data Sources: GitHub API, WakaTime API  
