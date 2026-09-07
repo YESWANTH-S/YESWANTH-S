@@ -1,11 +1,12 @@
 <pre>
+yeswanth@github:~$ whoami
+
 <img 
-  src="assets/booting.svg" 
-  alt="Animated terminal boot sequence introducing Yeswanth S" 
+  src="assets/matrix.svg?v=5" 
   style="width: 100%;  display: block; margin: 20px 0;" />
 
-I'm a full-stack developer with a focus on Linux, AI/ML, and building efficient web applications.
-I develop robust tools, streamline workflows, and integrate machine learning into practical solutions.
+Full-stack developer focused on Linux, AI/ML, and web tooling.
+I build things end-to-end — from computer vision models to the terminal tools I use to ship them.
 
 yeswanth@github:~$ cat projects.txt
   
